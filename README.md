@@ -2,7 +2,7 @@
 
 ---
 
-![xpl0it3r](https://github.com/ArmandtErasmus/xpl0it3r/blob/main/assets/xpl0it3r.png 'xpl0it3r')
+![dashboard](https://github.com/ArmandtErasmus/stochastic_modeling_multi_asset_portfolio_monte_carlo/blob/main/stochastic.png)
 
 ---
 
